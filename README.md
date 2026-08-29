@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/직접_만든_코드-101,244줄-1B7F4B?style=for-the-badge&labelColor=0B2E1A" />
+<img src="https://img.shields.io/badge/직접_만든_코드-84,000줄-1B7F4B?style=for-the-badge&labelColor=0B2E1A" />
 <img src="https://img.shields.io/badge/매일_쓰는_도구-4개-00A651?style=for-the-badge&labelColor=0B2E1A" />
 <img src="https://img.shields.io/badge/외부_의존성-0개-FF7043?style=for-the-badge&labelColor=0B2E1A" />
 
@@ -54,7 +54,7 @@
 
 ### ✍️ 애드센스 스튜디오
 
-**블로그 운영 · `24,351줄`**
+**블로그 운영 · `7,942줄`**
 
 블로그 여덟 곳의 글을 쓰고, 검수하고,
 발행하고, 성과를 되짚습니다.
@@ -76,7 +76,7 @@
 
 ### ⌨️ 덱
 
-**단축 도구 · `2,428줄`**
+**단축 도구 · `1,900줄`**
 
 매크로패드 36키와 단축어를
 코드 한 곳에서 정의합니다.
